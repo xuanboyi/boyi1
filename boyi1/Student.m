@@ -12,7 +12,7 @@
 -(void)learning{
     NSLog(@"我正在学习");
 }
-_(void)eating{
+-(void)eating{
     NSLog(@"我正在吃饭");
 }
 @end

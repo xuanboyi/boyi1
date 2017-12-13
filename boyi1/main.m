@@ -29,7 +29,7 @@ int main(int argc, const char * argv[]) {
         
         Student *s1 = [[Student alloc]init];
         [s1 learning];
-        [s1 eating];c
+        [s1 eating];
     
     
     

@@ -10,6 +10,6 @@
 #import "Person.h"
 @interface Student : Person
 -(void)learning;
-_(void)eating ;
+-(void)eating;
 
 @end
